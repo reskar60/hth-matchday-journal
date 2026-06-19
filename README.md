@@ -1,2 +1,14 @@
 # hth-matchday-journal
-HTML page archive and documentation
+
+自动生成页面存放处
+
+仓库主要用于保存 HTML 页面，便于通过 GitHub Pages 访问。
+
+## 内容记录
+
+- 页面文件会逐步增加
+- 仓库说明会随配置保持更新
+
+## 管理说明
+
+本仓库适合保存多个独立页面，不依赖额外构建流程。
